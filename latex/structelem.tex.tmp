@@ -1,0 +1,20 @@
+\hypertarget{structelem}{}\doxysection{elem Struct Reference}
+\label{structelem}\index{elem@{elem}}
+
+
+Collaboration diagram for elem\+:
+% FIG 0
+\doxysubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{structelem_a437b0acb286ff7fe4e298d4d2b851c7b}\label{structelem_a437b0acb286ff7fe4e298d4d2b851c7b}} 
+int {\bfseries inf}
+\item 
+\mbox{\Hypertarget{structelem_a5676f3bc339c6078388c93534e0ddbb2}\label{structelem_a5676f3bc339c6078388c93534e0ddbb2}} 
+\mbox{\hyperlink{structelem}{elem}} $\ast$ {\bfseries pun}
+\end{DoxyCompactItemize}
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+eseliste.\+cc\end{DoxyCompactItemize}
